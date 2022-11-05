@@ -1,0 +1,76 @@
+#container{
+    width: 90vw;
+    margin: 20px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+.product{
+    width: 320px;
+
+    border-radius: 8px;
+    padding: 10px;
+    box-shadow: inset;
+   transition: cubic-bezier(0.23, 1, 0.320, 1);
+}
+
+.product img{
+    width: 100%;
+}
+
+  
+  .product:hover{
+   image: url("https://cdn5.vectorstock.com/i/1000x1000/94/34/creative-black-camera-logo-design-symbol-vector-25619434.jpg");
+   transform: scale(1.05);
+   opacity: 5;
+  }
+  #div1{
+    background-color:  rgb(125, 36, 36);
+        
+  }
+  
+  #p{
+        
+          background-color: gray;
+  }
+  .para{
+    color: blue;
+  }
+  .button{
+    color:  #29d9d5;
+  }
+  #pre{
+    font-size: large;
+  }
+  #j{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8cwHw5GWwv-toKyoDcnmsAwePh4ZlXnSYow&usqp=CAU");
+  }
+  .align{
+    text-align: center;
+    color: aqua;
+     font-size: 30px;
+  }
+  .align1{
+    text-align: center;
+    font-size: 50px;
+  }
+  #button{
+    color:  #29d9d5;
+    margin-left: auto;
+  }
+  #photo{
+    font-size: large;
+  }
+
+  
+
+
+
+
+
+
+
+
+
